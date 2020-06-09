@@ -40,5 +40,6 @@ end
       end
     end
   end
-
+  
+Scraper.new.print_courses
 
